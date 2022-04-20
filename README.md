@@ -1,2 +1,2 @@
 # 8-Puzzle
-This program compares 4 diffrent search methodds on their abality to solve the 8-puzzle. The 4 search algoriths are Depth first, Bredth first, A*, and Simmulated Annealing. 
+This program compares 5 diffrent search methodds on their abality to solve the 8-puzzle. The 5 search algoriths are Depth first, Bredth first, Uniform Cost Search, A*, and Simmulated Annealing. 
